@@ -1,0 +1,27 @@
+One must determine which questions to ask, identify the appropriate data, and select effective visual encodings to map data values to graphical features such as position, size, shape, and color. The challenge is that for any given data set the number of visual encodings—and thus the space of possible visualization designs—is extremely large. To guide this process, computer scientists, psychologists, and statisticians have studied how well different encodings facilitate the comprehension of data types such as numbers, categories, and networks.
+In many situations, simple data graphics will not only suffice, they may also be preferable.
+
+stacked graph does not support negative numbers and is meaningless for data that should not be summed (temperatures, for example).
+The horizon graph is a technique for increasing the data density of a time-series view while preserving resolution.Although the horizon graph takes some time to learn, it has been found to be more effective than the standard plot when the chart sizes get quite small.
+
+one important use of visualizations is exploratory data analysis: gaining insight into how data is distributed to inform data transformation and modeling decisions.
+
+Parallel coordinates (||-coord), shown in figure 2D, take a different approach to visualizing multivariate data. Instead of graphing every pair of variables in two dimensions, we repeatedly plot the data on parallel axes and then connect the corresponding points with lines
+
+a flow map can depict the movement of a quantity in space and (implicitly) in time. Many of the greatest flow maps also involve subtle uses of distortion, as geography is modified to accommodate or highlight flows.
+choropleth map
+ne common error is to encode raw data values (such as population) rather than using normalized values to produce a density map
+Another issue is that one's perception of the shaded value can also be affected by the underlying area of the geographic region.
+graduated symbol map
+this approach avoids confounding geographic area with data values and allows for more dimensions to be visualized (e.g., symbol size, shape, and color).
+A cartogram distorts the shape of geographic regions so that the area directly encodes a data variable.
+a node-link diagram
+An alternative visualization scheme is the dendrogram (or cluster) algorithm, which places leaf nodes of the tree at the same level.
+The adjacency diagram is a space-filling variant of the node-link diagram; rather than drawing a link between parent and child in the hierarchy, nodes are drawn as solid areas (either arcs or bars), and their placement relative to adjacent nodes reveals their position in the hierarchy
+The sunburst layout, shown in figure 4E, is equivalent to the icicle layout, but in polar coordinates
+enclosure diagram
+
+A common and intuitive approach to network layout is to model the graph as a physical system: nodes are charged particles that repel each other, and links are dampened springs that pull related nodes together.
+force-directed layout 
+An arc diagram, shown in figure 5B, uses a one-dimensional layout of nodes, with circular arcs to represent links
+ the DNA underlying all visualizations remains the same: the principled mapping of data variables to visual features such as position, size, shape, and color.
