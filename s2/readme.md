@@ -1,10 +1,12 @@
-## Natalia Debandi - Semana 1
+## Natalia Debandi - Semana 2
 
-Prueba con TABLEU
+#Data set
+[https://data.world/makeovermonday/2022w44](https://data.world/makeovermonday/2022w44)
 
-[https://natdebandi.github.io/infovis2/s1/tableu.html](https://natdebandi.github.io/infovis2/s1/tableu.html)
+Pruebas en Tableu
+[https://natdebandi.github.io/infovis2/s2/raisedandspent.html](https://natdebandi.github.io/infovis2/s2/raisedandspent.html)
 
-Prueba hecha desde https://www.rawgraphs.io/
+Pruebas en Flourish
+[https://natdebandi.github.io/infovis2/s2/raisedbymember.html](https://natdebandi.github.io/infovis2/s2/raisedbymember.html)
 
-[https://natdebandi.github.io/infovis2/s1/pruebsvg.html](https://natdebandi.github.io/infovis2/s1/pruebsvg.html)
-
+[https://natdebandi.github.io/infovis2/s2/raisedbystate.html](https://natdebandi.github.io/infovis2/s2/raisedbystate.html)
