@@ -15,4 +15,4 @@ Se presentab los dos archivos que cada uno tiene configuración local
 [Dashboards publicados](https://github.com/natdebandi/infovis2/blob/main/trabajofinal/trabajofinal.html)
 
 Archivo tableu
-https://github.com/natdebandi/infovis2/blob/main/trabajofinal/Trabajofinal.twb(https://github.com/natdebandi/infovis2/blob/main/trabajofinal/Trabajofinal.twb)
+https://github.com/natdebandi/infovis2/blob/main/trabajofinal/Trabajofinal.twb
